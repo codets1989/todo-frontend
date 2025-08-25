@@ -55,12 +55,6 @@ type Task = {
 }
 ```
 
-## Notes
-
-- The UI mirrors the Figma layout: card-based list, completion toggle, delete with confirm, and a summary block.
-- Client-side fetching (SWR) keeps the code simple and responsive.
-- Minimal design system classes (`btn`, `card`, `input`, etc.) live in `app/globals.css`.
-- Edit/Create share a single `TaskForm` component.
 
 ## Folder Structure
 

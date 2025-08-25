@@ -22,7 +22,7 @@ npm install
 Create `.env.local` and set your Express server URL (defaults to `http://localhost:3001`):
 
 ```
-NEXT_PUBLIC_API_BASE_URL=http://localhost:3001
+NEXT_PUBLIC_API_BASE_URL=http://localhost:4000
 ```
 
 3. **Run the dev server**
